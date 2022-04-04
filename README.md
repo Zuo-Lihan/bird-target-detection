@@ -9,16 +9,14 @@ keras
 YOLO算法
 
 
-#### 安装教程
+#### 文件结构说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+每一个> ImageSets/Main下都先建立一个对应类别的鸟类的文件，再在该文件内部生成> "train.txt"、> "trainval.txt"、> "val.txt"、> "test.txt"，有利于项目同时实现单目标检测和多目标检测，让项目结构更加清晰。
 
 #### 使用说明
 
 1.  VOC数据制作
-2.  annotation标签生成train.txt和test.txt文件用于训练和测试。
+2.  annotation标签生成> "train.txt"和> "test.txt"文件用于训练和测试。
 3.  xxxx
 
 #### 参与贡献

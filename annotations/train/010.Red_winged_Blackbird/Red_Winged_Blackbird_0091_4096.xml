@@ -1,0 +1,26 @@
+<annotation>
+	<folder>010.Red_winged_Blackbird</folder>
+	<filename>Red_Winged_Blackbird_0091_4096.jpg</filename>
+	<path>E:\university\2022 semester\data_vgg\train\010.Red_winged_Blackbird\Red_Winged_Blackbird_0091_4096.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>439</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>010.Red_winged_Blackbird</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>186</xmin>
+			<ymin>128</ymin>
+			<xmax>323</xmax>
+			<ymax>356</ymax>
+		</bndbox>
+	</object>
+</annotation>

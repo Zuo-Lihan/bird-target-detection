@@ -1,0 +1,26 @@
+<annotation>
+	<folder>008.Rhinoceros_Auklet</folder>
+	<filename>Rhinoceros_Auklet_0026_797519.jpg</filename>
+	<path>E:\university\2022 semester\data_vgg\train\008.Rhinoceros_Auklet\Rhinoceros_Auklet_0026_797519.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>420</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>008.Rhinoceros_Auklet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>84</ymin>
+			<xmax>311</xmax>
+			<ymax>185</ymax>
+		</bndbox>
+	</object>
+</annotation>

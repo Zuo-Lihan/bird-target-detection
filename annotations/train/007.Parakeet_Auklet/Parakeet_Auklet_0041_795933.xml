@@ -1,0 +1,26 @@
+<annotation>
+	<folder>007.Parakeet_Auklet</folder>
+	<filename>Parakeet_Auklet_0041_795933.jpg</filename>
+	<path>E:\university\2022 semester\data_vgg\train\007.Parakeet_Auklet\Parakeet_Auklet_0041_795933.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>230</width>
+		<height>178</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>007.Parakeet_Auklet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>23</ymin>
+			<xmax>152</xmax>
+			<ymax>162</ymax>
+		</bndbox>
+	</object>
+</annotation>

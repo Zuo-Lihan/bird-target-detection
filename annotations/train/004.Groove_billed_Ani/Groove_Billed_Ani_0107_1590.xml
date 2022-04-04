@@ -1,0 +1,26 @@
+<annotation>
+	<folder>004.Groove_billed_Ani</folder>
+	<filename>Groove_Billed_Ani_0107_1590.jpg</filename>
+	<path>E:\university\2022 semester\data_vgg\train\004.Groove_billed_Ani\Groove_Billed_Ani_0107_1590.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>004.Groove_billed_Ani</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>153</xmin>
+			<ymin>95</ymin>
+			<xmax>317</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+</annotation>

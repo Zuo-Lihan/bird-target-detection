@@ -1,0 +1,26 @@
+<annotation>
+	<folder>006.Least_Auklet</folder>
+	<filename>Least_Auklet_0004_795112.jpg</filename>
+	<path>E:\university\2022 semester\data_vgg\train\006.Least_Auklet\Least_Auklet_0004_795112.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>429</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>006.Least_Auklet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>119</xmin>
+			<ymin>119</ymin>
+			<xmax>320</xmax>
+			<ymax>220</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>009.Brewer_Blackbird</folder>
+	<filename>Brewer_Blackbird_0082_2593.jpg</filename>
+	<path>E:\university\2022 semester\data_vgg\test\009.Brewer_Blackbird\Brewer_Blackbird_0082_2593.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>009.Brewer_Blackbird</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>45</ymin>
+			<xmax>325</xmax>
+			<ymax>323</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>005.Crested_Auklet</folder>
+	<filename>Crested_Auklet_0030_794937.jpg</filename>
+	<path>E:\university\2022 semester\data_vgg\train\005.Crested_Auklet\Crested_Auklet_0030_794937.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>421</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>005.Crested_Auklet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>182</xmin>
+			<ymin>28</ymin>
+			<xmax>348</xmax>
+			<ymax>414</ymax>
+		</bndbox>
+	</object>
+</annotation>

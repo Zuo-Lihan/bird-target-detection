@@ -1,0 +1,26 @@
+<annotation>
+	<folder>001.Black_footed_Albatross</folder>
+	<filename>Black_Footed_Albatross_0026_796095.jpg</filename>
+	<path>E:\university\2022 semester\data_vgg\train\001.Black_footed_Albatross\Black_Footed_Albatross_0026_796095.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>332</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>001.Black_footed_Albatross</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>3</ymin>
+			<xmax>325</xmax>
+			<ymax>257</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>003.Sooty_Albatross</folder>
+	<filename>Sooty_Albatross_0029_796357.jpg</filename>
+	<path>E:\university\2022 semester\data_vgg\test\003.Sooty_Albatross\Sooty_Albatross_0029_796357.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>003.Sooty_Albatross</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>53</ymin>
+			<xmax>423</xmax>
+			<ymax>381</ymax>
+		</bndbox>
+	</object>
+</annotation>

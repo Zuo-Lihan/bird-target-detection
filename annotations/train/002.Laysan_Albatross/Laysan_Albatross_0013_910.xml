@@ -1,0 +1,26 @@
+<annotation>
+	<folder>002.Laysan_Albatross</folder>
+	<filename>Laysan_Albatross_0013_910.jpg</filename>
+	<path>E:\university\2022 semester\data_vgg\test\002.Laysan_Albatross\Laysan_Albatross_0013_910.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>002.Laysan_Albatross</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>41</ymin>
+			<xmax>415</xmax>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+</annotation>

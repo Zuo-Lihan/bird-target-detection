@@ -4,7 +4,9 @@
 鸟类目标检测实践
 
 #### 软件架构
-软件架构说明
+anaconda 
+keras
+YOLO算法
 
 
 #### 安装教程
@@ -15,8 +17,8 @@
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
+1.  VOC数据制作
+2.  annotation标签生成train.txt和test.txt文件用于训练和测试。
 3.  xxxx
 
 #### 参与贡献

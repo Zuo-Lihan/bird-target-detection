@@ -1,0 +1,6 @@
+002.Laysan_Albatross 0.0032 112 111 340 408
+005.Crested_Auklet 0.0013 117 110 335 439
+006.Least_Auklet 0.3503 126 101 346 448
+007.Parakeet_Auklet 0.9419 122 115 348 409
+008.Rhinoceros_Auklet 0.0485 126 101 346 448
+010.Red_winged_Blackbird 0.0018 112 111 340 408

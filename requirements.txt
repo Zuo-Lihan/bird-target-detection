@@ -1,0 +1,22 @@
+提倡conda create -n “虚拟环境”python=3.6
+新建虚拟环境配置软件库：
+
+scipy==1.2.1
+numpy==1.17.0
+Keras==2.1.5
+matplotlib==3.1.2
+opencv_python==4.1.2.30
+tensorflow_gpu==1.13.2
+tqdm==4.60.0
+Pillow==8.2.0
+h5py==2.10.0
+
+说明：
+tensorflow-gpu版本对python版本、CUDA和CUDNN版本都有要求
+（h5py库建议用conda环境下的“conda命令下载”）
+
+建议下载：
+CUDA10
+CUDNN对应CUDA10的对应版本
+tensorflow-gpu==1.13.2
+（这种情况下的python环境一定不超过python-3.6）

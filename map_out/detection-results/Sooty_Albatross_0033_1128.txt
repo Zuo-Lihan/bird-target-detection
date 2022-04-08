@@ -1,0 +1,12 @@
+001.Black_footed_Albatross 0.0383 47 47 437 320
+002.Laysan_Albatross 0.3443 47 47 437 320
+002.Laysan_Albatross 0.0019 109 80 436 240
+003.Sooty_Albatross 0.8900 41 68 408 253
+003.Sooty_Albatross 0.0018 65 28 486 348
+004.Groove_billed_Ani 0.0285 31 57 412 308
+005.Crested_Auklet 0.0025 31 57 412 308
+006.Least_Auklet 0.0020 31 57 412 308
+007.Parakeet_Auklet 0.0013 5 72 437 243
+008.Rhinoceros_Auklet 0.0027 31 57 412 308
+009.Brewer_Blackbird 0.1932 48 49 396 249
+010.Red_winged_Blackbird 0.0015 47 47 437 320

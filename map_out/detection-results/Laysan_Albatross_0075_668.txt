@@ -1,0 +1,16 @@
+001.Black_footed_Albatross 0.0037 121 47 213 251
+001.Black_footed_Albatross 0.0013 119 130 214 168
+001.Black_footed_Albatross 0.0013 139 108 190 193
+002.Laysan_Albatross 0.0810 121 47 213 251
+002.Laysan_Albatross 0.0176 119 130 214 168
+002.Laysan_Albatross 0.0058 139 108 190 193
+002.Laysan_Albatross 0.0044 114 143 218 177
+003.Sooty_Albatross 0.0682 121 47 213 251
+003.Sooty_Albatross 0.0144 119 130 214 168
+003.Sooty_Albatross 0.0030 139 108 190 193
+003.Sooty_Albatross 0.0028 114 143 218 177
+005.Crested_Auklet 0.0011 139 108 190 193
+005.Crested_Auklet 0.0010 121 47 213 251
+006.Least_Auklet 0.0012 139 108 190 193
+008.Rhinoceros_Auklet 0.0029 121 47 213 251
+008.Rhinoceros_Auklet 0.0017 119 130 214 168

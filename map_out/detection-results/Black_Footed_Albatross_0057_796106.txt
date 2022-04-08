@@ -1,0 +1,6 @@
+001.Black_footed_Albatross 0.9213 76 45 359 272
+001.Black_footed_Albatross 0.0012 113 105 308 223
+002.Laysan_Albatross 0.5794 76 45 359 272
+003.Sooty_Albatross 0.0028 84 -8 398 300
+007.Parakeet_Auklet 0.0012 58 12 384 283
+008.Rhinoceros_Auklet 0.0797 69 45 366 255

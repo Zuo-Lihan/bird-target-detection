@@ -1,0 +1,6 @@
+001.Black_footed_Albatross 0.0407 69 86 260 365
+004.Groove_billed_Ani 0.9861 64 89 264 400
+004.Groove_billed_Ani 0.0017 88 48 336 517
+004.Groove_billed_Ani 0.0016 -1 66 240 505
+005.Crested_Auklet 0.0051 60 88 238 398
+009.Brewer_Blackbird 0.0158 60 88 238 398

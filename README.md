@@ -20,6 +20,8 @@ YOLO算法
 3.  预训练权重文件下载：
     百度网盘》》链接：https://pan.baidu.com/s/1iiLsC6Vf-u3JGl7pMurIEw 
     提取码：qlhv
+4.  源码下载：提供百度网盘下载链接：https://pan.baidu.com/s/1QNKw4yGdClGfqTfgOa1R3g 
+    提取码：ka11 
 
 #### 参与贡献
 

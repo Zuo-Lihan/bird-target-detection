@@ -18,8 +18,8 @@ YOLO算法
 1.  VOC数据制作
 2.  annotation标签生成> "train.txt"和> "test.txt"文件用于训练和测试。
 3.  预训练权重文件下载：
-    百度网盘》》链接：https://pan.baidu.com/s/1QNKw4yGdClGfqTfgOa1R3g  
-    提取码：ka11
+    百度网盘》》链接：https://pan.baidu.com/s/1iiLsC6Vf-u3JGl7pMurIEw 
+    提取码：qlhv
 
 #### 参与贡献
 

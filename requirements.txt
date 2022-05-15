@@ -1,4 +1,4 @@
-提倡conda create -n “虚拟环境”python=3.6
+conda create -n “虚拟环境”python=3.6-3.7
 新建虚拟环境配置软件库：
 
 scipy==1.2.1
@@ -18,5 +18,4 @@ tensorflow-gpu版本对python版本、CUDA和CUDNN版本都有要求
 建议下载：
 CUDA10
 CUDNN对应CUDA10的对应版本
-tensorflow-gpu==1.13.2
-（这种情况下的python环境一定不超过python-3.6）
+tensorflow-gpu
